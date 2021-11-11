@@ -1,0 +1,52 @@
+.home {
+  margin-top: 5rem;
+  .home_pic {
+    position: relative;
+    img {
+      width: 100%;
+      max-width: 100%;
+      max-height: 90vh;
+    }
+    h1 {
+      position: absolute;
+      color: rgb(255, 255, 255);
+      top: 16rem;
+      left: 40%;
+      font-size: 5rem;
+    }
+    .home_subtitle {
+      position: absolute;
+      color: white;
+      top: 22rem;
+      left: 40%;
+      font-size: 2rem;
+    }
+    .btn-outline-warning {
+      position: absolute;
+      font-size: 2rem;
+      font-weight: bold;
+      top: 28rem;
+      left: 40%;
+    }
+  }
+  .home_intro {
+    margin: 5rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    .home_intro_left {
+      width: 30rem;
+      overflow: hidden;
+      img {
+        width: 120%;
+        margin-left: -2rem;
+      }
+    }
+    .home_intro_right {
+      width: 30rem;
+      overflow: hidden;
+      padding: 0rem 5rem 0 1rem;
+      font-size: 1.3rem;
+    }
+  }
+}

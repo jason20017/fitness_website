@@ -1,0 +1,17 @@
+.courses {
+  padding-top: 5rem;
+  .card {
+    width: 25rem;
+    min-height: 30rem;
+    margin: 1rem 5rem;
+    .card-img-top {
+      min-height: 20rem;
+    }
+    .card-body {
+      h5 {
+        font-weight: bold;
+        font-size: 1.8rem;
+      }
+    }
+  }
+}

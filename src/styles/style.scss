@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+
+  // border: red 1px solid !important;
+  // background-color: black !important;
+  // color: white !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+strong {
+  font-size: 2rem;
+}
+
+@import "./nav";
+@import "./home";
+@import "./courses";
+@import "./qa";
+@import "./tdee";
+@import "./contact";
+@import "./footer";
