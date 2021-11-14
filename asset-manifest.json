@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/fitness_website/static/css/main.8d34dece.chunk.css",
+    "main.js": "/fitness_website/static/js/main.669837dd.chunk.js",
+    "main.js.map": "/fitness_website/static/js/main.669837dd.chunk.js.map",
+    "runtime-main.js": "/fitness_website/static/js/runtime-main.11621a62.js",
+    "runtime-main.js.map": "/fitness_website/static/js/runtime-main.11621a62.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/fitness_website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b858fa06.chunk.js": "/fitness_website/static/js/2.b858fa06.chunk.js",
+    "static/js/2.b858fa06.chunk.js.map": "/fitness_website/static/js/2.b858fa06.chunk.js.map",
+    "index.html": "/fitness_website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/fitness_website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.8d34dece.chunk.css.map": "/fitness_website/static/css/main.8d34dece.chunk.css.map",
+    "static/js/2.b858fa06.chunk.js.LICENSE.txt": "/fitness_website/static/js/2.b858fa06.chunk.js.LICENSE.txt",
+    "static/media/cor-1.5f6d6a9f.jpg": "/fitness_website/static/media/cor-1.5f6d6a9f.jpg",
+    "static/media/cor-2.6c0d9379.jpg": "/fitness_website/static/media/cor-2.6c0d9379.jpg",
+    "static/media/cor-3.97fc4d65.jpg": "/fitness_website/static/media/cor-3.97fc4d65.jpg",
+    "static/media/cor-4.d667df04.jpg": "/fitness_website/static/media/cor-4.d667df04.jpg",
+    "static/media/cor-5.abc10c96.jpg": "/fitness_website/static/media/cor-5.abc10c96.jpg",
+    "static/media/cor-6.a3b35e87.jfif": "/fitness_website/static/media/cor-6.a3b35e87.jfif",
+    "static/media/cor-7.940e6b06.jpg": "/fitness_website/static/media/cor-7.940e6b06.jpg",
+    "static/media/cor-8.98ef506c.jpg": "/fitness_website/static/media/cor-8.98ef506c.jpg",
+    "static/media/cor-9.94b10514.jpg": "/fitness_website/static/media/cor-9.94b10514.jpg",
+    "static/media/fit-3.99a41cca.jpg": "/fitness_website/static/media/fit-3.99a41cca.jpg",
+    "static/media/fit-4.47815017.jpg": "/fitness_website/static/media/fit-4.47815017.jpg",
+    "static/media/fit-5.35faee75.jpg": "/fitness_website/static/media/fit-5.35faee75.jpg",
+    "static/media/fit-6.878e3faf.jpg": "/fitness_website/static/media/fit-6.878e3faf.jpg",
+    "static/media/fit-7.e4fef873.png": "/fitness_website/static/media/fit-7.e4fef873.png",
+    "static/media/fit.9a6a9256.jpg": "/fitness_website/static/media/fit.9a6a9256.jpg",
+    "static/media/logo.4ad081d9.png": "/fitness_website/static/media/logo.4ad081d9.png",
+    "static/media/qatitle.59ce24c3.jpg": "/fitness_website/static/media/qatitle.59ce24c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11621a62.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b858fa06.chunk.js",
+    "static/css/main.8d34dece.chunk.css",
+    "static/js/main.669837dd.chunk.js"
+  ]
+}
