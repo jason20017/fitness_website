@@ -2,7 +2,7 @@
   "name": "fit-web-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jason20017.github.io/fitness_website/",
+  "homepage": "./",
   "dependencies": {
     "-": "0.0.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
