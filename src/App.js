@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <Nav />
       <Switch>
-        <Route path="/" exact>
+        <Route path="/">
           <Home />
         </Route>
         <Route path="/courses" exact>
