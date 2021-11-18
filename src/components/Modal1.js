@@ -1,9 +1,9 @@
 import React from "react";
 
-const Modal = ({ showModal, setShowModal }) => {
+const Modal1 = ({ showModal1, setShowModal1 }) => {
   return (
     <>
-      {showModal ? (
+      {showModal1 ? (
         <div
           class="modal fade"
           id="staticBackdrop"
@@ -26,7 +26,7 @@ const Modal = ({ showModal, setShowModal }) => {
                   aria-label="Close"
                 ></button>
               </div>
-              <div class="modal-body">透過重訓減脂的好處</div>
+              <div class="modal-body">透過重訓減脂的好處，Modal 1 內容</div>
             </div>
           </div>
         </div>
@@ -35,4 +35,4 @@ const Modal = ({ showModal, setShowModal }) => {
   );
 };
 
-export default Modal;
+export default Modal1;
