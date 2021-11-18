@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fitness_website/static/css/main.8d34dece.chunk.css",
-    "main.js": "/fitness_website/static/js/main.669837dd.chunk.js",
-    "main.js.map": "/fitness_website/static/js/main.669837dd.chunk.js.map",
+    "main.css": "/fitness_website/static/css/main.0824094a.chunk.css",
+    "main.js": "/fitness_website/static/js/main.5a9720a7.chunk.js",
+    "main.js.map": "/fitness_website/static/js/main.5a9720a7.chunk.js.map",
     "runtime-main.js": "/fitness_website/static/js/runtime-main.11621a62.js",
     "runtime-main.js.map": "/fitness_website/static/js/runtime-main.11621a62.js.map",
     "static/css/2.0a9ec390.chunk.css": "/fitness_website/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b858fa06.chunk.js": "/fitness_website/static/js/2.b858fa06.chunk.js",
-    "static/js/2.b858fa06.chunk.js.map": "/fitness_website/static/js/2.b858fa06.chunk.js.map",
+    "static/js/2.e9b256f9.chunk.js": "/fitness_website/static/js/2.e9b256f9.chunk.js",
+    "static/js/2.e9b256f9.chunk.js.map": "/fitness_website/static/js/2.e9b256f9.chunk.js.map",
     "index.html": "/fitness_website/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/fitness_website/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.8d34dece.chunk.css.map": "/fitness_website/static/css/main.8d34dece.chunk.css.map",
-    "static/js/2.b858fa06.chunk.js.LICENSE.txt": "/fitness_website/static/js/2.b858fa06.chunk.js.LICENSE.txt",
+    "static/css/main.0824094a.chunk.css.map": "/fitness_website/static/css/main.0824094a.chunk.css.map",
+    "static/js/2.e9b256f9.chunk.js.LICENSE.txt": "/fitness_website/static/js/2.e9b256f9.chunk.js.LICENSE.txt",
     "static/media/cor-1.5f6d6a9f.jpg": "/fitness_website/static/media/cor-1.5f6d6a9f.jpg",
     "static/media/cor-2.6c0d9379.jpg": "/fitness_website/static/media/cor-2.6c0d9379.jpg",
     "static/media/cor-3.97fc4d65.jpg": "/fitness_website/static/media/cor-3.97fc4d65.jpg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.11621a62.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b858fa06.chunk.js",
-    "static/css/main.8d34dece.chunk.css",
-    "static/js/main.669837dd.chunk.js"
+    "static/js/2.e9b256f9.chunk.js",
+    "static/css/main.0824094a.chunk.css",
+    "static/js/main.5a9720a7.chunk.js"
   ]
 }
